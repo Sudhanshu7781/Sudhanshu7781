@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hi,I'm Sudhanshu Singh!
+👩🏻‍🎓 Studying Computer Science at the Noida Institute Of Engineering And Technology,Greater Noida
+💭 Currently learning Java And Data Structures!
+📫 How to reach me isudhanshu7781@gmail.com
 <!--
 **Sudhanshu7781/Sudhanshu7781** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
