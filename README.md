@@ -29,5 +29,6 @@ Hi,I'm Sudhanshu Singh!<br>👩🏻‍🎓 Studying Computer Science at the Noid
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Sudhanshu7781&icon=0&color=0)](https://visitcount.itsvg.in)
+![Sudhanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sudhanshu7781&show_icons=true&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
